@@ -23,10 +23,29 @@ public class MainActivity extends AppCompatActivity {
         scoreView.setText(String.valueOf(score));
     }
 
-
+    /**
+     * Adds three points
+     */
     public void addThreeForTeamA(View v){
         displayForTeamA(3);
     }
+
+    /**
+     * Adds two points
+     */
+    public void addTwoForTeamA(View v){
+        displayForTeamA(2);
+    }
+
+
+    /**
+     * Adds one point
+     */
+    public void addOneForTeamA(View v){
+        displayForTeamA(1);
+    }
+
+
 
 
 
