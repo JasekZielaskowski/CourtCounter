@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Adds three points
+     * Adds three points for Team A
      */
     public void addThreeForTeamA(View v){
         scoreTeamA = scoreTeamA + 3;
@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Adds two points
+     * Adds two points for Team A
      */
     public void addTwoForTeamA(View v) {
         scoreTeamA = scoreTeamA + 2;
@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     /**
-     * Adds one point
+     * Adds one point for Team A
      */
     public void addOneForTeamA(View v){
         scoreTeamA = scoreTeamA + 1;
