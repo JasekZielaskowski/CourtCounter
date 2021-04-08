@@ -92,9 +92,9 @@
 
 
     </LinearLayout>
-<View android:layout_width="1dp"
+<View android:layout_width="3dp"
     android:layout_height="match_parent"
-    android:background="@android:color/background_dark" />
+    android:background="#ffffff" />
 
     <LinearLayout
         android:layout_weight="1"
